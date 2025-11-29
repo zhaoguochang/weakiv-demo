@@ -1,0 +1,5 @@
+{
+  "name": "Weak IV Simulation",
+  "description": "An interactive econometric simulation demonstrating how weak instrumental variables lead to estimates that are biased towards OLS and exhibit heavy tails.",
+  "requestFramePermissions": []
+}
